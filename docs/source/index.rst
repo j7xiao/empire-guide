@@ -5,12 +5,13 @@ Whether you're a seasoned veteran catching up on the newest updates, or a comple
 .. toctree::
     :caption: Overview
     :maxdepth: 1
+    :hidden:
 
     self
 
 .. toctree::
     :caption: General
-    :titlesonly:
-    :maxdepth: 1
+    :maxdepth: 2
+    :hidden:
 
     static/layouts/index

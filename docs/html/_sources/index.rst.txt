@@ -21,6 +21,7 @@ Whether you're a seasoned veteran catching up on the newest updates, or a comple
     :maxdepth: 1
     :hidden:
 
+    static/events-overview
     static/primary-events/index
     static/other-events/index
     

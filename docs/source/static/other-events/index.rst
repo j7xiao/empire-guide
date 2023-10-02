@@ -11,9 +11,9 @@ Other Events
     bloodcrow
     collector-events
     kingdoms-league
-    ltpe
     nobility
     shady-lady
     shapeshifter
+    ltpe
     traveling-knights
     

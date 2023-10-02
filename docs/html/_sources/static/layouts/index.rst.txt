@@ -1,3 +1,9 @@
+.. raw:: html
+
+    <style> .blue {color:#2980B9} </style>
+
+.. role:: blue
+
 Layouts
 =======
 
@@ -15,20 +21,20 @@ Find optimized building layouts for each castle.
 Frequently Asked Questions
 --------------------------
 
-Help! My building wasn't listed! 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:blue:`Help! My building wasn't listed!`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 No worries. All the jgisawing has been done for you already. Remove a decoration and you'll be pleasantly surprised that your building(s) fit snugly inside your layout! 
 
-Sawmill? Stonemason?? Workshops???
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:blue:`Sawmill? Stonemason?? Workshops???`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The more astute among you will have noticed the Sawmill and Stonemason placed in the Main Castle Layout serve no actual use boosting resource production. Instead, they are used for build item attachments ("widgets") from event rewards. **Furthermore, the Sawmill and Stonemason need not be placed anywhere else**, until they can be stashed into a district. 
 
 Similarly, the tool workshops are used for the widgets. (They as well have no place in layouts outside of your main castle until you can store them both in a district.) Currently, the Siege Workshop and Defense Workshop widgets alternate as rewards between events, so you only need one at a time. Ideally, you should alternate their placements to match the current widget until you unlock the military district (where you'll have both at the same time). 
 
-How many granaries/farmhouses?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:blue:`How many granaries/farmhouses?`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Early/mid game: 8-12**. Food is king, and your production should reflect that. 
 

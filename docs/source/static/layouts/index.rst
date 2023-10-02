@@ -4,14 +4,19 @@
 
 .. role:: blue
 
+.. raw:: html
+
+    <style> .red {color:#FF0000} </style>
+
+.. role:: red
+
 Layouts
 =======
 
 Find optimized building layouts for each castle.
 
 .. toctree::
-    :caption: Contents
-    :hidden:
+    :glob:
 
     main
     main_2
@@ -29,7 +34,7 @@ No worries. All the jgisawing has been done for you already. Remove a decoration
 :blue:`Sawmill? Stonemason?? Workshops???`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The more astute among you will have noticed the Sawmill and Stonemason placed in the Main Castle Layout serve no actual use boosting resource production. Instead, they are used for build item attachments ("widgets") from event rewards. **Furthermore, the Sawmill and Stonemason need not be placed anywhere else**, until they can be stashed into a district. 
+The more astute among you will have noticed the Sawmill and Stonemason placed in the Main Castle Layout serve no actual use boosting resource production. Instead, they are used for build item attachments ("widgets") from event rewards. :red:`Furthermore, the Sawmill and Stonemason need not be placed anywhere else`, until they can be stashed into a district. 
 
 Similarly, the tool workshops are used for the widgets. (They as well have no place in layouts outside of your main castle until you can store them both in a district.) Currently, the Siege Workshop and Defense Workshop widgets alternate as rewards between events, so you only need one at a time. Ideally, you should alternate their placements to match the current widget until you unlock the military district (where you'll have both at the same time). 
 

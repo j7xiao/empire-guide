@@ -15,3 +15,12 @@ Whether you're a seasoned veteran catching up on the newest updates, or a comple
     :hidden:
 
     static/layouts/index
+
+.. toctree::
+    :caption: Events
+    :maxdepth: 1
+    :hidden:
+
+    static/primary-events/index
+    static/other-events/index
+    

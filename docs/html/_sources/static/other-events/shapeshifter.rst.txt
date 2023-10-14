@@ -1,4 +1,0 @@
-.. _Shapeshifter:
-
-Shapeshifter
-============

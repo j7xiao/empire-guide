@@ -1,0 +1,4 @@
+Wall Basics
+===========
+
+Your wall is made up of three components: the wall itself, the gate, and the moat.

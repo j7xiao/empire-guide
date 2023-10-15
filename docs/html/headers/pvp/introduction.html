@@ -8,6 +8,7 @@
       <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
       <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
       <link rel="stylesheet" href="../../_static/s4defs-roles.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/custom.css" type="text/css" />
       <link rel="stylesheet" href="../../_static/dark_mode_css/general.css" type="text/css" />
       <link rel="stylesheet" href="../../_static/dark_mode_css/dark.css" type="text/css" />
   <!--[if lt IE 9]>
@@ -54,9 +55,9 @@
 <p class="caption" role="heading"><span class="caption-text">PvP</span></p>
 <ul class="current">
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Introduction</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="#type-matchups">Type Matchups</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#reading-stat-lines">Reading Stat Lines</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#basic-calculations">Basic Calculations</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#type-matchups"><span class="blue">Type Matchups</span></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#reading-stat-lines"><span class="blue">Reading Stat Lines</span></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#basic-calculations"><span class="blue">Basic Calculations</span></a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="wall-basics.html">Wall Basics</a></li>
@@ -89,25 +90,25 @@
 <h1>Introduction<a class="headerlink" href="#introduction" title="Permalink to this heading"></a></h1>
 <p>Let’s jump straight into it.</p>
 <section id="type-matchups">
-<span id="id1"></span><h2>Type Matchups<a class="headerlink" href="#type-matchups" title="Permalink to this heading"></a></h2>
+<h2><span class="blue">Type Matchups</span><a class="headerlink" href="#type-matchups" title="Permalink to this heading"></a></h2>
 <p>The foundation of pvp lies upon type matchups. There are two troop types, melee and ranged, which are then further split up into attackers and defenders. Like this:
 <br /> <a class="reference internal" href="../../_images/type-overview.png"><img alt="type-overview" src="../../_images/type-overview.png" style="width: 93.5px; height: 185.0px;" /></a></p>
-<p>Type matchups are deceivingly simple. Ranged attackers are effective against melee defenders and melee attackers  are effective against ranged defenders. The converse also becomes true. Range attackers are weak against ranged defenders and melee attackers are weak against melee defenders.</p>
-<p>If you’re the <span class="red">attacker</span>, you want to <span class="red">mismatch</span> the defender’s ratio. If he defends <span class="olive">75%</span> range and <span class="olive">25%</span> melee, you want to send <span class="olive">75%</span> melee and <span class="olive">25%</span> range.</p>
-<p>If you’re the <span class="blue">defender</span>, you want to match <span class="blue">match</span> the attacker’s ratio. If he sends <span class="olive">75%</span> range and <span class="olive">25%</span> melee, you want to defend <span class="olive">75%</span> range and <span class="olive">25%</span> melee.</p>
+<p>Type matchups are deceivingly simple. Ranged attackers are effective against melee defenders and melee attackers  are effective against ranged defenders. The converse also holds true. Range attackers are weak against ranged defenders and melee attackers are weak against melee defenders.</p>
+<p>If you’re the <span class="red">attacker</span>, you want to <span class="red">MISMATCH</span> the defender’s ratio. If he defends <span class="olive">75%</span> range and <span class="olive">25%</span> melee, you want to send <span class="olive">75%</span> melee and <span class="olive">25%</span> range.</p>
+<p>If you’re the <span class="blue">defender</span>, you want to <span class="blue">MATCH</span> the attacker’s ratio. If he sends <span class="olive">75%</span> range and <span class="olive">25%</span> melee, you want to defend <span class="olive">75%</span> range and <span class="olive">25%</span> melee.</p>
 <p>Simple enough.</p>
 </section>
 <section id="reading-stat-lines">
-<h2>Reading Stat Lines<a class="headerlink" href="#reading-stat-lines" title="Permalink to this heading"></a></h2>
+<h2><span class="blue">Reading Stat Lines</span><a class="headerlink" href="#reading-stat-lines" title="Permalink to this heading"></a></h2>
 <p>Let’s take a closer look at a unit’s stat line. Here’s a Protector of the North:
 <br /> <a class="reference internal" href="../../_images/protector-of-the-north.png"><img alt="protector-of-the-north" src="../../_images/protector-of-the-north.png" style="width: 455.0px; height: 256.0px;" /></a></p>
 <p>The red sword signifies a melee type unit. The number beside it (<span class="olive">30</span>) denotes its attacking strength. The defensive stat is broken up into two components. It’s defending strength against melee troops (<span class="olive">270</span>) and it’s defending strength against ranged troops (<span class="olive">108</span>). Based off its stats, it’s not hard to determine this is a defense troop.</p>
 <p><br /> <a class="reference internal" href="../../_images/valkyrie-ranger.png"><img alt="valkyrie-ranger" src="../../_images/valkyrie-ranger.png" style="width: 449.0px; height: 243.0px;" /></a></p>
-<p>The red bow means a ranged type soldier. High attack stat (<span class="olive">310</span>), low defense stat. This is an offensive troop. Consistent with <a class="reference external" href="type-matchups">type matchups</a>, it’s ranged defense stat (<span class="olive">48</span>) is higher then its melee counterpart (<span class="olive">28</span>), even though both are very low.</p>
+<p>The red bow means a ranged type soldier. High attack stat (<span class="olive">310</span>), low defense stat. This is an offensive troop. Consistent with <a class="reference internal" href="#type-matchups">Type Matchups</a>, it’s ranged defense stat (<span class="olive">48</span>) is higher then its melee counterpart (<span class="olive">28</span>), even though both are very low.</p>
 </section>
 <section id="basic-calculations">
-<h2>Basic Calculations<a class="headerlink" href="#basic-calculations" title="Permalink to this heading"></a></h2>
-<p>It should go without saying that you should attack with offensive troops and defend with defensive troops.</p>
+<h2><span class="blue">Basic Calculations</span><a class="headerlink" href="#basic-calculations" title="Permalink to this heading"></a></h2>
+<p>It should go without saying that you attack with offensive troops and defend with defensive troops.</p>
 <p>So let’s say you pit them against each other. The defending strength of the protector is <span class="olive">108</span> as it is being attacked by a ranged unit. The attack stat of the valkyrie ranger is <span class="olive">310</span>. Therefore, it would take around 3 protectors to successfully fend off 1 valkyrie. This makes sense as…</p>
 <div class="admonition important">
 <p class="admonition-title">Important</p>

@@ -8,6 +8,7 @@
       <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
       <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
       <link rel="stylesheet" href="../../_static/s4defs-roles.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/custom.css" type="text/css" />
       <link rel="stylesheet" href="../../_static/dark_mode_css/general.css" type="text/css" />
       <link rel="stylesheet" href="../../_static/dark_mode_css/dark.css" type="text/css" />
   <!--[if lt IE 9]>
@@ -53,7 +54,16 @@
 <p class="caption" role="heading"><span class="caption-text">PvP</span></p>
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="introduction.html">Introduction</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">Wall Basics</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Wall Basics</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#overview"><span class="blue">Overview</span></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#calculating-bonsues"><span class="blue">Calculating Bonsues</span></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#how-are-the-numbers-derived"><span class="underline">How are the numbers derived?</span></a></li>
+<li class="toctree-l3"><a class="reference internal" href="#the-castellan-bonus"><span class="underline">The castellan bonus</span></a></li>
+<li class="toctree-l3"><a class="reference internal" href="#the-other-bonuses"><span class="underline">The other bonuses</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 
         </div>
@@ -81,7 +91,53 @@
              
   <section id="wall-basics">
 <h1>Wall Basics<a class="headerlink" href="#wall-basics" title="Permalink to this heading"></a></h1>
-<p>Your wall is made up of three components: the wall itself, the gate, and the moat.</p>
+<p>The wall is divided into three sections: The left flank, the front, and the right flank. Each flank (including the front) can carry tools which greatly influence the bonuses received on the wall.</p>
+<p><a class="reference internal" href="../../_images/castle-wall.png"><img alt="castle-wall" src="../../_images/castle-wall.png" style="width: 512.0px; height: 165.0px;" /></a></p>
+<section id="overview">
+<h2><span class="blue">Overview</span><a class="headerlink" href="#overview" title="Permalink to this heading"></a></h2>
+<p>There are four strength bonuses on each flank: moat <a class="reference internal" href="../../_images/moat.png"><img alt="moat" src="../../_images/moat.png" style="width: 26.0px; height: 15.0px;" /></a>, ranged <a class="reference internal" href="../../_images/ranged-def.png"><img alt="ranged-def" src="../../_images/ranged-def.png" style="width: 34.0px; height: 28.0px;" /></a>, melee <a class="reference internal" href="../../_images/melee-def.png"><img alt="melee-def" src="../../_images/melee-def.png" style="width: 27.0px; height: 26.5px;" /></a>, and wall <a class="reference internal" href="../../_images/wall.png"><img alt="wall" src="../../_images/wall.png" style="width: 25.0px; height: 14.5px;" /></a>. There’s also an additional gate bonus <a class="reference internal" href="../../_images/gate.png"><img alt="gate" src="../../_images/gate.png" style="width: 25.0px; height: 15.0px;" /></a> for the front.</p>
+<p>You can increse your wall protection by upgrading the wall in your castle. For example compare a level 1 (<span class="olive">30%</span> bonus) and a level 8 wall (<span class="olive">200%</span> bonus):</p>
+<p><a class="reference internal" href="../../_images/lv1-wall.png"><img alt="lv1-wall" src="../../_images/lv1-wall.png" style="width: 262.8px; height: 187.20000000000002px;" /></a> <a class="reference internal" href="../../_images/lv8-wall.png"><img alt="lv8-wall" src="../../_images/lv8-wall.png" style="width: 266.8px; height: 191.20000000000002px;" /></a></p>
+<p>Likewise, you can increse your gate bonus by upgrading the gate and the moat bonus by upgrading the moat. Simple enough.</p>
+</section>
+<section id="calculating-bonsues">
+<h2><span class="blue">Calculating Bonsues</span><a class="headerlink" href="#calculating-bonsues" title="Permalink to this heading"></a></h2>
+<p>The overview of a flank will display if you hover or click on its corresponding wall section.
+<br /> <a class="reference internal" href="../../_images/flank-bonuses.png"><img alt="flank-bonuses" src="../../_images/flank-bonuses.png" style="width: 429.0px; height: 73.0px;" /></a></p>
+<p>The symbols should be familiar. From left to right: moat bonus, ranged bonus, melee bonus, and wall bonus. Note, the centre flank will also have a gate bonus.</p>
+<section id="how-are-the-numbers-derived">
+<h3><span class="underline">How are the numbers derived?</span><a class="headerlink" href="#how-are-the-numbers-derived" title="Permalink to this heading"></a></h3>
+<p>Let’s start with the moat bonus, <span class="olive">254%</span>.</p>
+<p>This castle has a <span class="pink">level 3</span> moat (the ruby one for those wondering), which gives <span class="olive">+70%</span> bonus. Remember the tool slots I mentioned earlier. Navigate to the moat tab in your castle defense menu. (If you haven’t unlocked the moat yet, then the moat bonus is <span class="olive">0%</span>.)
+<br /> <a class="reference internal" href="../../_images/moat-tab.png"><img alt="moat-tab" src="../../_images/moat-tab.png" style="width: 519.0px; height: 173.5px;" /></a></p>
+<p>I briefly touched on tool bonuses earlier. Well, each flank can slot one type of moat tool (again, assuming it’s actually unlocked). You can stack the tool to <span class="olive">999</span>. Unfortunately, it’s not a multiplative bonus. Rather, the tool’s bonus will be active for <span class="olive">999</span> waves of attacks. In other words, every wave of attack against your castle wall consume one tool from each slot.</p>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>It’s generally a good idea to keep your tools at 999 if possible, so it isn’t rendered empty after several attacks.</p>
+</div>
+<p>The tool slotted for the moat here is called an inferno moat. Another <span class="olive">+110%</span> accounted for.
+<br /> <a class="reference internal" href="../../_images/inferno-moat.png"><img alt="inferno-moat" src="../../_images/inferno-moat.png" style="width: 338.0px; height: 185.0px;" /></a></p>
+</section>
+<section id="the-castellan-bonus">
+<h3><span class="underline">The castellan bonus</span><a class="headerlink" href="#the-castellan-bonus" title="Permalink to this heading"></a></h3>
+<p>So where’s the rest? The last bonus comes from the castle’s castellan. The castellan is composed of equipment parts that combine together for powerful bonuses. Let’s take a look at this one through the castle defense menu where we have been exploring (If you have no idea where I am, click your castle gate, then click on Defense from the selection wheel).
+<br /> <a class="reference internal" href="../../_images/castellan-moat-bonus.png"><img alt="castellan-moat-bonus" src="../../_images/castellan-moat-bonus.png" style="width: 514.5px; height: 291.0px;" /></a></p>
+<p>There’s the remaining <span class="olive">74%</span>. (:</p>
+</section>
+<section id="the-other-bonuses">
+<h3><span class="underline">The other bonuses</span><a class="headerlink" href="#the-other-bonuses" title="Permalink to this heading"></a></h3>
+<p>Let’s revisit this image from earlier:
+<br /> <a class="reference internal" href="../../_images/castle-wall.png"><img alt="castle-wall" src="../../_images/castle-wall.png" style="width: 512.0px; height: 165.0px;" /></a></p>
+<p>Unlike the moat (and the gate), which have their own dedicated tool slots, the ranged, melee, and wall bonuses all fight for tool slots. You’ll start with one tool slot for each flank, then gain a slot at wall <span class="pink">level 2</span>, <span class="pink">level 3, and 5</span> for <span class="olive">4</span> total slots. The 5th slot can be specially opened for players who prefer defense over offense, but typically you’ll see <span class="olive">4</span> slots out in the wild.</p>
+<p>The wall and gate bonuses, like their moat counterpart, both have innate bonuses from their corresponding building structures. Likewise, any corresponding tools will boost their stats.</p>
+<p>Melee and ranged bonuses have no corresponding building structures. Instead, their defense will always start with 100% base power plus tool and castellan bonuses.</p>
+<div class="admonition important">
+<p class="admonition-title">Important</p>
+<p>Wall tools are rarely used on defense. Instead the tool slots are typically split between ranged and melee bonuses.</p>
+</div>
+<p>The next section will address the reasoning behind this. Now that we have most of the basics down, it’s time to dive into actual combat strategies.</p>
+</section>
+</section>
 </section>
 
 

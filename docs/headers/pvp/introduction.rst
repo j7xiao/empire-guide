@@ -3,10 +3,8 @@ Introduction
 
 Let's jump straight into it.
 
-.. _type-matchups:
-
-Type Matchups
-~~~~~~~~~~~~~
+:blue:`Type Matchups`
+~~~~~~~~~~~~~~~~~~~~~
 
 .. |type-overview| image:: ./images/type-overview.png
     :scale: 50 %
@@ -20,16 +18,16 @@ Type Matchups
 The foundation of pvp lies upon type matchups. There are two troop types, melee and ranged, which are then further split up into attackers and defenders. Like this: 
 |br| |type-overview|
 
-Type matchups are deceivingly simple. Ranged attackers are effective against melee defenders and melee attackers  are effective against ranged defenders. The converse also becomes true. Range attackers are weak against ranged defenders and melee attackers are weak against melee defenders.
+Type matchups are deceivingly simple. Ranged attackers are effective against melee defenders and melee attackers  are effective against ranged defenders. The converse also holds true. Range attackers are weak against ranged defenders and melee attackers are weak against melee defenders.
 
-If you're the :red:`attacker`, you want to :red:`mismatch` the defender's ratio. If he defends :olive:`75%` range and :olive:`25%` melee, you want to send :olive:`75%` melee and :olive:`25%` range.
+If you're the :red:`attacker`, you want to :red:`MISMATCH` the defender's ratio. If he defends :olive:`75%` range and :olive:`25%` melee, you want to send :olive:`75%` melee and :olive:`25%` range.
 
-If you're the :blue:`defender`, you want to match :blue:`match` the attacker's ratio. If he sends :olive:`75%` range and :olive:`25%` melee, you want to defend :olive:`75%` range and :olive:`25%` melee.
+If you're the :blue:`defender`, you want to :blue:`MATCH` the attacker's ratio. If he sends :olive:`75%` range and :olive:`25%` melee, you want to defend :olive:`75%` range and :olive:`25%` melee.
 
 Simple enough.
 
-Reading Stat Lines
-~~~~~~~~~~~~~~~~~~
+:blue:`Reading Stat Lines`
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Let's take a closer look at a unit's stat line. Here's a Protector of the North:
 |br| |protector-of-the-north|
@@ -38,12 +36,12 @@ The red sword signifies a melee type unit. The number beside it (:olive:`30`) de
 
 |br| |valkyrie-ranger|
 
-The red bow means a ranged type soldier. High attack stat (:olive:`310`), low defense stat. This is an offensive troop. Consistent with `type matchups <type-matchups>`_, it's ranged defense stat (:olive:`48`) is higher then its melee counterpart (:olive:`28`), even though both are very low.
+The red bow means a ranged type soldier. High attack stat (:olive:`310`), low defense stat. This is an offensive troop. Consistent with `Type Matchups`_, it's ranged defense stat (:olive:`48`) is higher then its melee counterpart (:olive:`28`), even though both are very low.
 
-Basic Calculations
-~~~~~~~~~~~~~~~~~~
+:blue:`Basic Calculations`
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-It should go without saying that you should attack with offensive troops and defend with defensive troops.
+It should go without saying that you attack with offensive troops and defend with defensive troops.
 
 So let's say you pit them against each other. The defending strength of the protector is :olive:`108` as it is being attacked by a ranged unit. The attack stat of the valkyrie ranger is :olive:`310`. Therefore, it would take around 3 protectors to successfully fend off 1 valkyrie. This makes sense as...
 

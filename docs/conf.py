@@ -27,6 +27,9 @@ rst_prolog = """
 .. |br| raw:: html
 
    <br />
+
+.. role:: underline
+    :class: underline
 """
 
 # -- Options for HTML output -------------------------------------------------
@@ -39,9 +42,5 @@ html_show_sourcelink = False
 
 html_css_files = [
     's4defs-roles.css',
-    'slides.css'
-]
-
-html_js_files = [
-    'slides.js'
+    'custom.css'
 ]

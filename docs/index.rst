@@ -1,6 +1,10 @@
 Welcome to the Empire Wiki!
 ===========================
-Whether you're a seasoned veteran catching up on the newest updates, or a complete newbie learning basic game mechanics, you've come to the right place!
+
+This website is under construction! Your feedback is important!
+
+.. image:: ./under-construction.jpg
+    :scale: 50 %
 
 .. toctree::
     :caption: Overview
@@ -17,3 +21,5 @@ Whether you're a seasoned veteran catching up on the newest updates, or a comple
 
     headers/pvp/introduction
     headers/pvp/wall-basics
+    headers/pvp/tools-basics
+    headers/pvp/tools-waves

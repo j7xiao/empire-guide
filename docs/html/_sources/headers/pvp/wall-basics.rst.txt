@@ -94,14 +94,15 @@ The wall and gate, like their moat counterpart, both have innate bonuses from th
 
 Melee and ranged bonuses have no corresponding building structures. Instead, their defense will always start with 100% base power plus tool and castellan bonuses.
 
-Referring to the flank overview image from `Calculating Bonsues`_ and the castellan image from `The Castellan Bonus`_ again, we can determine that: 
+Refrencing the flank overview and the castellan images from earlier, we can determine that:
+|br| |flank-bonuses| | 
 
 The :blue:`ranged bonus` is comprised of :olive:`100%` base + :olive:`140%` from tools (:olive:`2` "slits" at :olive:`+70%` each) + :olive:`189%` from castellan + :olive:`17%` from sepcial bonuses = :olive:`446%` total ranged power. |br|
 The :blue:`melee bonus` is comprised of :olive:`100%` base + :olive:`129%` from tools (:olive:`3` "bombs" at :olive:`+43%` each) + :olive:`194%` from castellan + :olive:`17%` from special bonuses = :olive:`440%` total melee power.
 
-The "special bonuses" are attributed to the Hall of Legends, a :pink:`level 70` building responsible for unlocking the aforementioned :olive:`5th` tool slot.
+The "special bonuses" are attributed to the Hall of Legends, a :pink:`level 70` building also responsible for unlocking the aforementioned :olive:`5th` tool slot.
 
 Now that we have most of the basics down, it's time to dive into actual combat strategies.
 
 .. note::
-    And for those of you still wondering how the wall bonus was totalled, it's :olive:`160%` from the wall level and :olive:`186%` for a toal of :olive:`346%`. There are no tools in any of the slots, so there is no tool bonus.
+    And for those of you still wondering how the wall bonus was totalled, it's :olive:`160%` from the wall level and :olive:`186%` from the cast for a toal of :olive:`346%`. There are no tools in any of the slots, so there is no tool bonus.

@@ -94,7 +94,8 @@ The wall and gate, like their moat counterpart, both have innate bonuses from th
 
 Melee and ranged bonuses have no corresponding building structures. Instead, their defense will always start with 100% base power plus tool and castellan bonuses.
 
-Referring to the flank overview image from `Calculating Bonsues`_ and the castellan image from `The Castellan Bonus`_ again, we can determine that: 
+Refrencing the flank overview and the castellan images from earlier, we can determine that:
+|br| |flank-bonuses| | 
 
 The :blue:`ranged bonus` is comprised of :olive:`100%` base + :olive:`140%` from tools (:olive:`2` "slits" at :olive:`+70%` each) + :olive:`189%` from castellan + :olive:`17%` from sepcial bonuses = :olive:`446%` total ranged power. |br|
 The :blue:`melee bonus` is comprised of :olive:`100%` base + :olive:`129%` from tools (:olive:`3` "bombs" at :olive:`+43%` each) + :olive:`194%` from castellan + :olive:`17%` from special bonuses = :olive:`440%` total melee power.

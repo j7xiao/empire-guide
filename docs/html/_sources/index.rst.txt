@@ -23,3 +23,4 @@ This website is under construction! Your feedback is important!
     headers/pvp/wall-basics
     headers/pvp/tools-basics
     headers/pvp/tools-waves
+    headers/pvp/defense

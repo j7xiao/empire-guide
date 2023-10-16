@@ -51,6 +51,8 @@ Why :olive:`19` boulders? It's supposed to be :olive:`21`, but if you're stuck w
 
 You can probably understand that a :olive:`40`-tool wave can't hold both :olive:`21` towers and :olive:`21` boulders. So why do we favor :olive:`21` towers over :olive:`21` boulders? Remember that the tower tool grants :olive:`-20%` wall bonus, but the moat tool only gives :olive:`-15%` moat bonus. This means that the wall has more value then the moat per tool. :olive:`21` towers and :olive:`19` boulders sacrifices :olive:`30%` moat, but :olive:`19` towers and :olive:`21` boulders sacrifices :olive:`40%` wall. Remember axiom 1? :olive:`40%` wall > :olive:`30%` moat. (:
 
+And for those of you wondering why I didn't use all :olive:`50`-tool space, and elected to leave :olive:`8` slots empty, it is to save on tools. If you add more towers or moats, you won't actually be reducing any potential defense. You can still fill it to :olive:`50` if you want to though. 
+
 :blue:`Front Formations`
 ~~~~~~~~~~~~~~~~~~~~~~~~
 

@@ -59,10 +59,10 @@ Remember how the melee and ranged bonus starts with :olive:`100%` power? If the 
 
 This is what wall wiping is. It doesn't matter if there are 200 or 200 million ranged troops on the wall. If the ranged power is reduced to :olive:`0%`, functionally speaking, their collective power is :olive:`0`. This makes sense as their power is being multiplied by :olive:`0.` This means if the attacker sends at least 1 troop, that 1 troop will kill the entire wall section, hence "wiping" (again, assuming it's all ranged). 
 
-The absolute maximum ranged bonus on the wall is :olive:`100%` (base) + :olive:`250%` (:olive:`5` slits) + :olive:`300%` (maximum castellan) = :olive:`750%`. If you sent :olive:`50` shield walls, that will bring the defenders ranged bonus to `-750%`.
+The absolute maximum ranged bonus on the wall is :olive:`100%` (base) + :olive:`250%` (:olive:`5` slits) + :olive:`300%` (maximum castellan) = :olive:`650%`. If you sent :olive:`44` shield walls, that will bring the defenders ranged bonus to :olive:`-660%`. Although on that note, the ranged bonus cannot be reduced below :olive:`0%`. There are no mechanics for "healing" your own troops in battle.
 
 .. danger::
-    Do not set your wall ratio to all ranged! Even the strongest player in the game would be brought down to his knees.
+    Do not set your wall ratio to all ranged! Even the strongest player in the game would be brought down to his knees if set to 100r/0.
 
 :underline:`2. 100m/0`
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -72,7 +72,7 @@ Thankfully, the attacker cannot reduce the melee defender's power, so you can av
 :underline:`3. Ranged Majority`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Remember that the defending ranged troop's power can be reduced by attacking tools. That is why it is a mistake to set your ratio to ranged majority. If you set to :olive:`70r/30`, the attacker can compose his attack of majority shield waves, and nullify :olive:`70%` of your troop power!
+Remember that the defending ranged troop's power can be reduced by attacking tools. That is why it is a mistake to set your ratio to ranged majority. If you set to :olive:`70r/30` for example, the attacker can compose his attack of majority shield waves, and nullify :olive:`70%` of your troop power!
 
 :blue:`Melee Majority Ratio`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~

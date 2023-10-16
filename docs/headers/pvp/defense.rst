@@ -62,7 +62,7 @@ This is what wall wiping is. It doesn't matter if there are 200 or 200 million r
 The absolute maximum ranged bonus on the wall is :olive:`100%` (base) + :olive:`250%` (:olive:`5` slits) + :olive:`300%` (maximum castellan) = :olive:`650%`. If you sent :olive:`44` shield walls, that will bring the defenders ranged bonus to :olive:`-660%`. Although on that note, the ranged bonus cannot be reduced below :olive:`0%`. There are no mechanics for "healing" your own troops in battle.
 
 .. danger::
-    Do not set your wall ratio to all ranged! Even the strongest player in the game would be brought down to his knees if set to 100r/0.
+    Do not set your wall ratio to all ranged! Even the strongest player in the game would be brought down to his knees if he set to 100r/0.
 
 :underline:`2. 100m/0`
 ^^^^^^^^^^^^^^^^^^^^^^

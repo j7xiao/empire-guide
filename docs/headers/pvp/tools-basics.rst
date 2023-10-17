@@ -43,12 +43,12 @@ There are many tools in the game, but these are the best of each of their respec
 .. |flank-bonuses| image:: ./images/flank-bonuses.png
     :scale: 50 %
 
-.. danger::
-    If you read no other section in this guide, then I implore you to read this one.
 
-If you understand the fundamentals of tools, then everything about PvP will fall in place. If you don't, either: :olive:`(1)` You will try to send your own attacks and they will suck or :olive:`(2)` You will copy-paste other people's formations and you will still suck, because there is no singular perfect attack formation. Either way, you will ultimately fail to learn how to proactively send and defend attacks. This is a massive issue in the game, as copy-paste formations is rampant in this game. For those who understand tools, the issue stops. Entire top alliances are built on complete ignorance of PvP fundamentals. And it shows when they go to war.
+If you read no other section in this guide, then I implore you to read this one.
 
-Now that I've thoroughly convinced and humbled you (If you're MISC, I've probably already lost you :P), let's lay some ground rules. There are a couple axioms in PvP that are generally accepted in the upper echelons of PvP play, but are hard to prove definitively without access to GGE's source code. The first and most important axiom is that all defense bonuses are treated equal. This isn't strictly true, but the difference is negligible enough where thousands of attacks from top PvP'ers haven't refuted its fundamental nature. :olive:`50%` range > :olive:`40%` wall. :olive:`90%` moat > :olive:`80%` melee. And so on and so forth. If the number is larger, it can be assumed as more impactful.
+If you understand the fundamentals of tools, then everything about PvP will fall in place. If you don't, either: :number:`(1)` You will try to send your own attacks and they will suck or :number:`(2)` You will copy-paste other people's formations and you will still suck, because there is no singular perfect attack formation. Either way, you will ultimately fail to learn how to proactively send and defend attacks. This is a massive issue in the game, as copy-paste formations is rampant in this game. For those who understand tools, the issue stops. Entire top alliances are built on complete ignorance of PvP fundamentals. And it shows when they go to war.
+
+Now that I've thoroughly convinced and humbled you (If you're MISC, I've probably already lost you :P), let's lay some ground rules. There are a couple axioms in PvP that are generally accepted in the upper echelons of PvP play, but are hard to prove definitively without access to GGE's source code. The first and most important axiom is that all defense bonuses are treated equal. This isn't strictly true, but the difference is negligible enough where thousands of attacks from top PvP'ers haven't refuted its fundamental nature. :number:`50%` range > :number:`40%` wall. :number:`90%` moat > :number:`80%` melee. And so on and so forth. If the number is larger, it can be assumed as more impactful.
 
 .. important::
     Axiom 1. All tool bonuses are treated equally.
@@ -56,7 +56,7 @@ Now that I've thoroughly convinced and humbled you (If you're MISC, I've probabl
 Let's take a look at the typical flank of a defender.
 |br| |flank-bonuses|
 
-We have two tool slots to work with, but there are four defensive bonuses! Remember we can disregard the melee defensive bonus (:olive:`440%`) as we don't have a tool to reduce it. We're down to three. But we still only have two tool slots. Welcome to your journey towards PvP mastery.
+We have two tool slots to work with, but there are four defensive bonuses! Remember we can disregard the melee defensive bonus (:number:`440%`) as we don't have a tool to reduce it. We're down to three. But we still only have two tool slots. Welcome to your journey towards PvP mastery.
 
 :underline:`Three defensive bonuses. Two Tool Slots! Help!!`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

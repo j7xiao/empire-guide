@@ -11,7 +11,7 @@ The first one is dutifully named the "Shield Wave" and, well, the other one does
 
 I like calling them "Alt Waves" as in "alternate wave not containing shields". It's simple and most importantly, short lol.
 
-The goal of the attacking tool is to reduce the defender's bonus as close to :olive:`0%` as possible.
+The goal of the attacking tool is to reduce the defender's bonus as close to :number:`0%` as possible.
 
 I know what's following is a lot to read. Take a breather. You're doing great. Let's dive in.
 
@@ -24,17 +24,17 @@ I know what's following is a lot to read. Take a breather. You're doing great. L
 Let's take a look at the 1st line.
 |br| |flank-formations-1|
 
-:olive:`32` shields + :olive:`8` towers. This is the standard setup for :olive:`40`-tool large flanks. Higher level players with the :olive:`+10` tool wave limit will usually see this as :olive:`32` shields and :olive:`18` towers.
+:number:`32` shields + :number:`8` towers. This is the standard setup for :number:`40`-tool large flanks. Higher level players with the :number:`+10` tool wave limit will usually see this as :number:`32` shields and :number:`18` towers.
 
-What's special about the number :olive:`32`? Well the easiest answer, is that we wouldn't have enough room to add more tools, but that sidesteps the question too easily.
+What's special about the number :number:`32`? Well the easiest answer, is that we wouldn't have enough room to add more tools, but that sidesteps the question too easily.
 
 The definitive answer is that there is no answer. Books closed. Period over.
 
-Bear with me. The item effectiveness of the shield wall is :olive:`-15%` ranged defender bonus. :olive:`32 x -15% = -480%`. Let's think about this from a defensive standpoint. Remember that the base power of ranged (and melee) on defense is :olive:`100%`. The most ranged bonus from defensive tools you'll ever see is :olive:`2` slits, which gives us :olive:`70% x 2 = 140%` ranged power. That gives us :olive:`+240%` total. Casts usually hover around :olive:`230%` bonus (:olive:`300%` is absolute max, but at that point, you should rethink hitting the person) which gives us... :olive:`470%`. Aha! 
+Bear with me. The item effectiveness of the shield wall is :number:`-15%` ranged defender bonus. :number:`32 x -15% = -480%`. Let's think about this from a defensive standpoint. Remember that the base power of ranged (and melee) on defense is :number:`100%`. The most ranged bonus from defensive tools you'll ever see is :number:`2` slits, which gives us :number:`70% x 2 = 140%` ranged power. That gives us :number:`+240%` total. Casts usually hover around :number:`230%` bonus (:number:`300%` is absolute max with something called widgets, but at that point, you should rethink hitting the person) which gives us... :number:`470%`. Aha! 
 
-The popular shield wall amount if you're familiar with copy-paste formations is :olive:`37`. That's :olive:`-555%`. :olive:`100%` (base) + :olive:`210%` (:olive:`3` slits) + :olive:`230%` (castellan) = :olive:`540%`. It's a little higher if you account for dHOL bonuses (you don't need to know what that is, just know it exists), but the math checks. The problem with the :olive:`37` shield argument, is that it either assumes :olive:`(1)` a :olive:`300%` castellan or :olive:`(2)` a :olive:`3` slit setup. Both arguments are absurd.
+The popular shield wall amount if you're familiar with copy-paste formations is :number:`37`. That's :number:`-555%`. :number:`100%` (base) + :number:`210%` (:number:`3` slits) + :number:`230%` (castellan) = :number:`540%`. It's a little higher if you account for dHOL bonuses (you don't need to know what that is, just know it exists), but the math checks. The problem with the :number:`37` shield argument, is that it either assumes :number:`(1)` a :number:`300%` castellan or :number:`(2)` a :number:`3` slit setup. Both arguments are absurd.
 
-An even more extreme argument purports :olive:`42` shields, which accounts for both option :olive:`(1)` and :olive:`(2)`. This is more than absurd. We'll pick this idea up later, but for now, disregard it.
+An even more extreme argument purports :number:`42` shields, which accounts for both option :number:`(1)` and :number:`(2)`. This is more than absurd. We'll pick this idea up later, but for now, disregard it.
 
 :blue:`The Alt Wave`
 ~~~~~~~~~~~~~~~~~~~~
@@ -45,15 +45,15 @@ An even more extreme argument purports :olive:`42` shields, which accounts for b
 Let's borrow the second half of the image from earlier.
 |br| |flank-formations-2|
 
-:olive:`21` towers + :olive:`19` boulders. This is the standard setup for :olive:`40`-tool large flanks. Higher level players with the :olive:`+10` tool wave limit will usually see this as :olive:`21` towers and :olive:`21` boulders.
+:number:`21` towers + :number:`19` boulders. This is the standard setup for :number:`40`-tool large flanks. Higher level players with the :number:`+10` tool wave limit will usually see this as :number:`21` towers and :number:`21` boulders.
 
-Back to magic numbers. What is the significance of :olive:`21`? A :pink:`level 8` castle wall gives :olive:`+200%` defense. The max castellan wall bonus (excluding hero) is :olive:`+220%`. What about tools? No one uses wall tools on defense. No one. This will be explained later. :olive:`200% + 220%  = 420%` bonus. Each breaching tower grants :olive:`-20%` wall bonus. And wouldn't you know it, :olive:`21 * -20% = -420%`.
+Back to magic numbers. What is the significance of :number:`21`? A level :number:`8` castle wall gives :number:`+200%` defense. The max castellan wall bonus (excluding hero) is :number:`+220%`. What about tools? No one uses wall tools on defense. No one. This will be explained later. :number:`200% + 220%  = 420%` bonus. Each breaching tower grants :number:`-20%` wall bonus. And wouldn't you know it, :number:`21 * -20% = -420%`.
 
-Why :olive:`19` boulders? It's supposed to be :olive:`21`, but if you're stuck with only :olive:`40`-tool large flanks, sacrifices must be made. Okay, so why :olive:`21` boulders then? Glad you asked. A :pink:`level 4` ruby moat gives :olive:`+85%` moat. The max castellan moat bonus (excluding hero) is :olive:`+120%`. The moat tool has it's own slot in the defense, so it will always be present. The strongest moat tool is the inferno moat which gives :olive:`+110%`. :olive:`85% + 120% + 110% = 315%`. Each boulder grants :olive:`-15%` moat bonus. And look at that, :olive:`21 * -15% = -315%`. Math is magical.
+Why :number:`19` boulders? It's supposed to be :number:`21`, but if you're stuck with only :number:`40`-tool large flanks, sacrifices must be made. Okay, so why :number:`21` boulders then? Glad you asked. A level :number:`4` ruby moat gives :number:`+85%` moat. The max castellan moat bonus (excluding hero) is :number:`+120%`. The moat tool has it's own slot in the defense, so it will always be present. The strongest moat tool is the inferno moat which gives :number:`+110%`. :number:`85% + 120% + 110% = 315%`. Each boulder grants :number:`-15%` moat bonus. And look at that, :number:`21 * -15% = -315%`. Math is magical.
 
-You can probably understand that a :olive:`40`-tool wave can't hold both :olive:`21` towers and :olive:`21` boulders. So why do we favor :olive:`21` towers over :olive:`21` boulders? Remember that the tower tool grants :olive:`-20%` wall bonus, but the moat tool only gives :olive:`-15%` moat bonus. This means that the wall has more value then the moat per tool. :olive:`21` towers and :olive:`19` boulders sacrifices :olive:`30%` moat, but :olive:`19` towers and :olive:`21` boulders sacrifices :olive:`40%` wall. Remember axiom 1? :olive:`40%` wall > :olive:`30%` moat. (:
+You can probably understand that a :number:`40`-tool wave can't hold both :number:`21` towers and :number:`21` boulders. So why do we favor :number:`21` towers over :number:`21` boulders? Remember that the tower tool grants :number:`-20%` wall bonus, but the moat tool only gives :number:`-15%` moat bonus. This means that the wall has more value then the moat per tool. :number:`21` towers and :number:`19` boulders sacrifices :number:`30%` moat, but :number:`19` towers and :number:`21` boulders sacrifices :number:`40%` wall. Remember axiom 1? :number:`40%` wall > :number:`30%` moat. (:
 
-And for those of you wondering why I didn't use all :olive:`50`-tool space, and elected to leave :olive:`8` slots empty, it is to save on tools. If you add more towers or moats, you won't actually be reducing any potential defense. You can still fill it to :olive:`50` if you want to though. 
+And for those of you wondering why I didn't use all :number:`50`-tool space, and elected to leave :number:`8` slots empty, it is to save on tools. If you add more towers or moat`s, you won't actually be reducing any potential defense. You can still fill it to :number:`50` if you want though. 
 
 :blue:`Front Formations`
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -61,16 +61,16 @@ And for those of you wondering why I didn't use all :olive:`50`-tool space, and 
 .. |front-formations| image:: ./images/front-formations.png
     :scale: 75 %
 
-Beautiful you made it to the other side. I won't bore you wtih more math. The methodology behind the tool amounts was important, but this is a guide, not a poorly written manpage. (Well actually...)
+Beautiful, you made it to the other side. I won't bore you wtih more math. The methodology behind the tool amounts was important, but this is a guide, not a poorly written manpage. (Well actually...)
 |br| |front-formations|
 
-I fibbed. Here's a little for those who are curious: :olive:`200%` (:pink:`level 8` gate) + :olive:`150%` (:olive:`2` porticuluses) + :olive:`160%` (castellan, no hero) = :olive:`510%`. :olive:`20% * 26 = 525%`. There you go.
+I fibbed. Here's a little for those who are curious: :number:`200%` (level :number:`8` gate) + :number:`150%` (:number:`2` porticuluses) + :number:`160%` (castellan, no hero) = :number:`510%`. :number:`-20% * 26 = -525%`. There you go.
 
-And yes I'll finally explain why I'm not including the hero bonus in all of these. The castellan hero has 4 traits. Two of them will always be ranged and melee bonus (not guaranteed on the equipment, but players will always chose them). Ranged and melee bonuses persist from the wall attack to the courtyard battle. However, the wall, gate, and moat bonuses only apply to the wall attack, meaning their stats are half as valuable in full context. The other two bonuses are usually fought over by the early detection, the courtyard, and the overall strength substats. You don't need to understand what any of that means. But for those who are asking, you have your answer. And those who asked and still don't have an answer, tough. :P
+And yes I'll finally explain why I'm not including the hero bonus in all of these. The castellan hero has 4 traits. Two of them will always be ranged and melee bonus (not guaranteed on the equipment, but players will always chose them). Ranged and melee bonuses persist from the wall attack to the courtyard battle. However, the wall, gate, and moat bonuses only apply to the wall attack, meaning their stats are half as valuable in full context. The other two bonuses are usually fought over by the early detection, the courtyard, and the overall strength substats. You don't need to understand what any of that means. But for those who are asking, you have your answer. And those who asked and still don't have an answer, tough (j/k, you'll learn as you progress in the game). :P
 
 All stats thus far are assuming max stats, but rarely will any of them actually be just by nature of the substat priority on equipment. You will almost never need every single wall and gate tool especially in the front wave. The moat tools are being choked out, due to the 50-tool limit on the front. You already know how to read defenses, so you can match your towers and gate to the enemy's defense. Then you'll free up space to squeeze more moat tools in.
 
-Yeah, I'm not getting past you am I. Why :olive:`30` shields + :olive:`12` wall + :olive:`8` gate? If wall power = gate power, and both tools provide :olive:`-20%`, why is there more wall than gate? And why only :olive:`30` shields? I plead the 5th. I'm serious though. Try it, send varying amounts of shields, wall, and gate. I'd love to hear what is working for you. :D
+Yeah, I'm not getting past you am I. Why :number:`30` shields + :number:`12` wall + :number:`8` gate? If wall power = gate power, and both tools provide :number:`-20%`, why is there more wall than gate? And why only :number:`30` shields? I plead the 5th. I'm serious though. Try it, send varying amounts of shields, wall, and gate. I'd love to hear what is working for you. :D
 
 Or you can keep it yourself. ;)
 

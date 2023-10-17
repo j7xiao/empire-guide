@@ -9,9 +9,11 @@ This website is under construction! Your feedback is important!
 .. toctree::
     :caption: Overview
     :maxdepth: 1
+    :glob:
     :hidden:
 
     self
+    headers/contributors
 
 .. toctree::
     :caption: PvP

@@ -9,6 +9,9 @@
       <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
       <link rel="stylesheet" href="../../_static/s4defs-roles.css" type="text/css" />
       <link rel="stylesheet" href="../../_static/custom.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/dark_mode_css/custom.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/dark_mode_css/dark.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/dark_mode_css/general.css" type="text/css" />
       <link rel="stylesheet" href="../../_static/dark_mode_css/general.css" type="text/css" />
       <link rel="stylesheet" href="../../_static/dark_mode_css/dark.css" type="text/css" />
   <!--[if lt IE 9]>
@@ -21,7 +24,10 @@
         <script src="../../_static/doctools.js?v=888ff710"></script>
         <script src="../../_static/sphinx_highlight.js?v=4825356b"></script>
         <script src="../../_static/dark_mode_js/default_dark.js?v=fd565c74"></script>
-        <script src="../../_static/dark_mode_js/theme_switcher.js?v=358d3910"></script>
+        <script src="../../_static/dark_mode_js/default_light.js?v=c2e647ce"></script>
+        <script src="../../_static/dark_mode_js/theme_switch.js"></script>
+        <script src="../../_static/dark_mode_js/default_dark.js?v=fd565c74"></script>
+        <script src="../../_static/dark_mode_js/theme_switcher.js?v=256f79f9"></script>
     <script src="../../_static/js/theme.js"></script>
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
@@ -50,6 +56,7 @@
               <p class="caption" role="heading"><span class="caption-text">Overview</span></p>
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="../../index.html">Welcome to the Empire Wiki!</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../contributors.html">Contributors</a></li>
 </ul>
 <p class="caption" role="heading"><span class="caption-text">PvP</span></p>
 <ul class="current">
@@ -101,28 +108,28 @@
 <section id="the-castle-wall-revisted">
 <h2><span class="blue">The Castle Wall – Revisted</span><a class="headerlink" href="#the-castle-wall-revisted" title="Permalink to this heading"></a></h2>
 <p><a class="reference internal" href="../../_images/castle-wall.png"><img alt="castle-wall" src="../../_images/castle-wall.png" style="width: 512.0px; height: 165.0px;" /></a></p>
-<p>The left flank says <span class="olive">98%</span>, the front <span class="olive">1%</span>, and the right flank <span class="olive">1%</span>. This is called your wall ratio. The above wall ratio would be designated as “<span class="olive">98-1-1</span>” in shorthand. You can adjust it by sliding the wooden knobs around. The <span class="olive">6,793</span> on the right tab indicates how many troops the wall can hold (“wall unit capacity”). The <span class="olive">0/6,793</span> means that there are 0 troops in the castle.</p>
+<p>The left flank says <span class="number">98%</span>, the front <span class="number">1%</span>, and the right flank <span class="number">1%</span>. This is called your wall ratio. The above wall ratio would be designated as “<span class="number">98-1-1</span>” in shorthand. You can adjust it by sliding the wooden knobs around. The <span class="number">6,793</span> on the right tab indicates how many troops the wall can hold (“wall unit capacity”). The <span class="number">0/6,793</span> means that there are zero troops in the castle.</p>
 <p>This is actually an important topic that is worth sidetracking a moment for.</p>
 <div class="admonition important">
 <p class="admonition-title">Important</p>
 <p>Troops are an extremely valuable asset. Until very late game, they are extremely succeptible to enemy attacks. There will always be a bigger fish, meaning your troops are never safe. While you are away from the game, it is important to safehouse your troops, by stationing them at an alliance mate who is under protection mode. Protection mode prevents another player from attacking them, but in exchange, they can’t hit other players. All larger alliances will have a “bird” to send troops to when you’re away from the game - Even if it is a shell account whose only purpose is to safehouse troops. That’s how important it is. You’ll even see top players bird their troops!</p>
 </div>
-<p>Anyways, back to the wall ratio. Why are almost all of the troops grouped on one flank? This is due to how the castle wall battle functions. The attackers has <span class="olive">3</span> flanks to attack from, just like the defender has <span class="olive">3</span> flanks to defend from.</p>
+<p>Anyways, back to the wall ratio. Why are almost all of the troops grouped on one flank? This is due to how the castle wall battle functions. The attackers has <span class="number">3</span> flanks to attack from, just like the defender has <span class="number">3</span> flanks to defend from.</p>
 </section>
 <section id="basic-battle-mechanics">
 <h2><span class="blue">Basic Battle Mechanics</span><a class="headerlink" href="#basic-battle-mechanics" title="Permalink to this heading"></a></h2>
-<p>There are two parts of the attack: the wall battle and the courtyard assault. Most attack troops are typically in the wall battle, but there will be trailing troops called the “courtyard assault”. If the attacker manages to break at least one flank, all surviving troops in addition to the courtyard assult will fight in the ensuing courtyard battle. The courtyard assault will be returned to the attacker if all <span class="olive">3</span> flanks are successfully defended.</p>
+<p>There are two parts of the attack: the wall battle and the courtyard assault. Most attack troops are typically in the wall battle, but there will be trailing troops called the “courtyard assault”. If the attacker manages to break at least one flank, all surviving troops in addition to the courtyard assult will fight in the ensuing courtyard battle. The courtyard assault will be returned to the attacker if all <span class="number">3</span> flanks are successfully defended.</p>
 <p>If the defender is significantly stronger then the attacker, he typically wants to kill all the trailing troops by intentionally leaving a flank “open” (assigning 0% of the wall trops to a flank) and destroying all of them in the ensuing courtyard assault. The defender will naturally lose more troops then if he simply defended all three flanks, but sometimes it’s about sending a message.</p>
-<p>If the defender sucessfully defends <span class="olive">2</span> flanks, he gains a <span class="olive">30%</span> courtyard strength bonus. If the defender only defends <span class="olive">1</span> flank, the courtyard battle “goes even”, and neither side receives a bonus. If the defender cannot defend any flank, then the attackers gains a <span class="olive">30%</span> courtyard strength bonus.</p>
-<p>Typically, a player can comfortably defend one flank. There are some situations, where the defender may elect to defend two flanks (<span class="olive">35-65-0</span> or <span class="olive">50-0-50</span> typically). There is an inherent risk. If he sucessfully defends two flanks, he gets the <span class="olive">30%</span> courtyard bonus. But usually if he can’t, he loses both flanks and the attackers gains <span class="olive">30%</span> courtyard bonus. That is a massive swing in power, and can make or break an attack.</p>
+<p>If the defender sucessfully defends <span class="number">2</span> flanks, he gains a <span class="number">30%</span> courtyard strength bonus. If the defender only defends <span class="number">1</span> flank, the courtyard battle “goes even”, and neither side receives a bonus. If the defender cannot defend any flank, then the attackers gains a <span class="number">30%</span> courtyard strength bonus.</p>
+<p>Typically, a player can comfortably defend one flank. There are some situations, where the defender may elect to defend two flanks (<span class="number">35-65-0</span> or <span class="number">50-0-50</span> typically). There is an inherent risk. If he sucessfully defends two flanks, he gets the <span class="number">30%</span> courtyard bonus. But usually if he can’t, he loses both flanks and the attackers gains <span class="number">30%</span> courtyard bonus. That is a massive swing in power, and can make or break an attack.</p>
 </section>
 <section id="the-melee-ranged-ratio">
 <h2><span class="blue">The Melee/Ranged ratio</span><a class="headerlink" href="#the-melee-ranged-ratio" title="Permalink to this heading"></a></h2>
 <p>Let’s borrow this image yet again:
 <a class="reference internal" href="../../_images/castle-wall.png"><img alt="castle-wall" src="../../_images/castle-wall.png" style="width: 512.0px; height: 165.0px;" /></a></p>
-<p>The quiver and sword image on each flank determines the melee/range ratio of the wall segment. Click on it to reveal the ratio of troops on that wall section. This is called the m/r ratio. A lot of experienced players will write it in shorthand. The below image for example is <span class="olive">80%</span> melee and <span class="olive">20%</span> ranged or “<span class="olive">80m/20</span>” in shorthand.
+<p>The quiver and sword image on each flank determines the melee/range ratio of the wall segment. Click on it to reveal the ratio of troops on that wall section. This is called the m/r ratio. A lot of experienced players will write it in shorthand. The below image for example is <span class="number">80%</span> melee and <span class="number">20%</span> ranged or “<span class="number">80m/20</span>” in shorthand.
 <br /> <a class="reference internal" href="../../_images/m-r-ratio.png"><img alt="m-r-ratio" src="../../_images/m-r-ratio.png" style="width: 279.0px; height: 153.0px;" /></a></p>
-<p>Assuming there is enough troops to fill the wall up with the correct ratio, the game will first partition the wall up (in this case, <span class="olive">98-1-1</span>). Then the game will populate the wall up to the wall unit capacity according to the m/r ratio of each section. All other troops in the castle will be kept in the courtyard pending a potential courtyard battle.</p>
+<p>Assuming there is enough troops to fill the wall up with the correct ratio, the game will first partition the wall up (in this case, <span class="number">98-1-1</span>). Then the game will populate the wall up to the wall unit capacity according to the m/r ratio of each section. All other troops in the castle will be kept in the courtyard pending a potential courtyard battle.</p>
 </section>
 <section id="why-80m-20">
 <h2><span class="blue">Why 80m/20?</span><a class="headerlink" href="#why-80m-20" title="Permalink to this heading"></a></h2>
@@ -130,26 +137,26 @@
 <p>Remember how I explained there were two types of waves, the “shield wave” and the “alt wave”? Its necessity is based off optimal defense setups. Let’s explore how the attacker can overcome common defense setup blunders.</p>
 <section id="r-0-a-lesson-in-wall-wiping">
 <h3><span class="underline">1. 100r/0 ~ A Lesson in Wall Wiping</span><a class="headerlink" href="#r-0-a-lesson-in-wall-wiping" title="Permalink to this heading"></a></h3>
-<p>Remember how the melee and ranged bonus starts with <span class="olive">100%</span> power? If the attacker reduces the ranged bonus below <span class="olive">100%</span> with shield walls, the ranged defenders effectively operate at partial power. But what if the attacker reduces the ranged power to <span class="olive">0%</span>?</p>
-<p>This is what wall wiping is. It doesn’t matter if there are 200 or 200 million ranged troops on the wall. If the ranged power is reduced to <span class="olive">0%</span>, functionally speaking, their collective power is <span class="olive">0</span>. This makes sense as their power is being multiplied by <span class="olive">0.</span> This means if the attacker sends at least 1 troop, that 1 troop will kill the entire wall section, hence “wiping” (again, assuming it’s all ranged).</p>
-<p>The absolute maximum ranged bonus on the wall is <span class="olive">100%</span> (base) + <span class="olive">250%</span> (<span class="olive">5</span> slits) + <span class="olive">300%</span> (maximum castellan) = <span class="olive">650%</span>. If you sent <span class="olive">44</span> shield walls, that will bring the defenders ranged bonus to <span class="olive">-660%</span>. Although on that note, the ranged bonus cannot be reduced below <span class="olive">0%</span>. There are no mechanics for “healing” your own troops in battle.</p>
+<p>Remember how the melee and ranged bonus starts with <span class="number">100%</span> power? If the attacker reduces the ranged bonus below <span class="number">100%</span> with shield walls, the ranged defenders effectively operate at partial power. But what if the attacker reduces the ranged power to <span class="number">0%</span>?</p>
+<p>This is what wall wiping is. It doesn’t matter if there are 200 or 200 million ranged troops on the wall. If the ranged power is reduced to <span class="number">0%</span>, functionally speaking, their collective power is <span class="number">0</span>. This makes sense as their power is being multiplied by <span class="number">0.</span> This means if the attacker sends at least 1 troop, that 1 troop will kill the entire wall section, hence “wiping” (again, assuming it’s all ranged).</p>
+<p>The absolute maximum ranged bonus on the wall is <span class="number">100%</span> (base) + <span class="number">250%</span> (<span class="number">5</span> slits) + <span class="number">300%</span> (maximum castellan) = <span class="number">650%</span>. If you sent <span class="number">44</span> shield walls, that will bring the defenders ranged bonus to <span class="number">-660%</span>. Although on that note, the ranged bonus cannot be reduced below <span class="number">0%</span>. There are no mechanics for “healing” your own troops in battle.</p>
 <div class="admonition danger">
 <p class="admonition-title">Danger</p>
-<p>Do not set your wall ratio to all ranged! Even the strongest player in the game would be brought down to his knees if he set to 100r/0.</p>
+<p>Do not set your wall ratio to all ranged! 100r/0 would bring even the strongest player down to their knees.</p>
 </div>
 </section>
 <section id="m-0">
 <h3><span class="underline">2. 100m/0</span><a class="headerlink" href="#m-0" title="Permalink to this heading"></a></h3>
-<p>Thankfully, the attacker cannot reduce the melee defender’s power, so you can avoid the wall wiping fiasco. However, <span class="olive">100m/0</span> is still a blunder. The attacker sends all ranged. The attacker gets type advantage for free. The attacker does not need to send shield waves, which means all his waves are sent at <span class="olive">100%</span> strength as there are no tools being “<a class="reference external" href="tools-basics.html#three-defensive-bonuses-two-tool-slots-help">left out</a>”.</p>
+<p>Thankfully, the attacker cannot reduce the melee defender’s power, so you can avoid the wall wiping fiasco. However, <span class="number">100m/0</span> is still a blunder. The attacker sends all ranged. The attacker gets type advantage for free. The attacker does not need to send shield waves, which means all his waves are sent at <span class="number">100%</span> strength as there are no tools being “<a class="reference external" href="tools-basics.html#three-defensive-bonuses-two-tool-slots-help">left out</a>”.</p>
 </section>
 <section id="ranged-majority">
 <h3><span class="underline">3. Ranged Majority</span><a class="headerlink" href="#ranged-majority" title="Permalink to this heading"></a></h3>
-<p>Remember that the defending ranged troop’s power can be reduced by attacking tools. That is why it is a mistake to set your ratio to ranged majority. If you set to <span class="olive">70r/30</span> for example, the attacker can compose his attack of majority shield waves, and nullify <span class="olive">70%</span> of your troop power!</p>
+<p>Remember that the defending ranged troop’s power can be reduced by attacking tools. That is why it is a mistake to set your ratio to ranged majority. If you set to <span class="number">70r/30</span> for example, the attacker can compose his attack of majority shield waves, and nullify <span class="number">70%</span> of your troop power!</p>
 </section>
 </section>
 <section id="melee-majority-ratio">
 <h2><span class="blue">Melee Majority Ratio</span><a class="headerlink" href="#melee-majority-ratio" title="Permalink to this heading"></a></h2>
-<p>So what we have left is melee majority ratio. So Why <span class="olive">80m/20</span>? The answer is that it provides enough unreduceable melee power while also providing ranged power to interfere with any attacking ranged troops, as again, <span class="olive">100m/0</span> is a blunder. Some people will argue for <span class="olive">70m/30</span>. This is valid argument as well, but depends on how many shield waves the attacker sends. We must swap back to the attacking aspect to complete our journey through the Art of the Attack.</p>
+<p>So what we have left is melee majority ratio. So Why <span class="number">80m/20</span>? The answer is that it provides enough unreduceable melee power while also providing ranged power to interfere with any attacking ranged troops, as again, <span class="number">100m/0</span> is a blunder. Some people will argue for <span class="number">70m/30</span>. This is valid argument as well, but depends on how many shield waves the attacker sends. We must swap back to the attacking aspect to complete our journey through the Art of the Attack.</p>
 <p>You’re almost done! ヾ（〃＾∇＾）ﾉ♪</p>
 </section>
 </section>

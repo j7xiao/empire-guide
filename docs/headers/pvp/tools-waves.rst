@@ -11,6 +11,8 @@ The first one is dutifully named the "Shield Wave" and, well, the other one does
 
 I like calling them "Alt Waves" as in "alternate wave not containing shields". It's simple and most importantly, short lol.
 
+The goal of the attacking tool is to reduce the defender's bonus as close to :olive:`0%` as possible.
+
 I know what's following is a lot to read. Take a breather. You're doing great. Let's dive in.
 
 :blue:`The Shield Wave`

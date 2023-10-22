@@ -8,7 +8,7 @@ If you are reading this sentence, go poke commcl to finish this guide out.
 :blue:`Defending Weak Attacks`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If the defender is significantly stronger then the attacker, he typically wants to kill off the courtyard assault. He must leave a flank "open" (assigning 0% of the wall trops to a flank), otherwise if he wins all three flanks, the attacker's courtyard assault is simply returned to the attacker. Naturally, the defender will naturally lose more troops then if he simply defended all three flanks, but sometimes it's about sending a message.
+If the defender is significantly stronger then the attacker, he typically wants to kill off the courtyard assault. He must leave a flank "open" (assigning 0% of the wall trops to a flank), otherwise if he wins all three flanks, the attacker's courtyard assault is simply returned to the attacker. Naturally, the defender will lose more troops then if he simply defended all three flanks, but sometimes it's about sending a message.
 
 :blue:`42-shield Attack Strategy`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

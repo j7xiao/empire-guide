@@ -1,5 +1,5 @@
-The Art of the Attack: All Together
-===================================
+The Art of the Attack: Composition
+==================================
 
 And like always, read the previous section if you haven't already. Provides important information :it:`yadda yadda yadda`. We did all the homework. Now let's have fun. :3
 
@@ -69,7 +69,7 @@ As more people learn to adjust their attack by placing their shields in the back
 :blue:`The m/r Ratio -- Revisited`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-I briefly mentioned needing to even your m/r ratio in the courtyard battle. Typically the defender will only elect to protect one flank, in order to consolidate their power, and guarantee there is no courtyard bonus for either side. Try to ancipate losing all the troops on one flank, and calculating how many of each troops you need in the courtyard assault to make sure the ratio going into the courtyard battle is as even as possible. If you fill your courtyard assault all with one troop, and your ratio still isn't even, you can sneak the rest of the needed troops on the front alt waves, even if that means mixing types together on a wave.
+I briefly mentioned needing to even your m/r ratio in the courtyard battle. Typically the defender will only elect to protect one flank, in order to consolidate their power, and guarantee there is no courtyard bonus for either side. Try to anticipate losing all the troops on one flank, and calculating how many of each troops you need in the courtyard assault to make sure the ratio going into the courtyard battle is as even as possible. If you fill your courtyard assault all with one troop, and your ratio still isn't even, you can sneak the rest of the needed troops on the front alt waves, even if that means mixing types together on a wave.
 
 If you are hitting someone who you anticipate is offline, and they have a lopsided m/r ratio, then mismatch their ratio. It's important that they're offline. For example, say the defender left his khan defense up and has :number:`75r/25` in his courtyard. You send a :number:`75m/25`, but if he's online, the defender can easily adjust their courtyard ratio to :number:`75m/25` and massacre your troops with the lopsided ratio advantage.
 

@@ -1,5 +1,5 @@
-The Art of the Attack: Final Thoughts
-=====================================
+Final Thoughts
+===============
 
 There is still random loose bits that still need to be tied up.
 

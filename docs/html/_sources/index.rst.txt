@@ -27,5 +27,5 @@ This website is under construction! Your feedback is important!
     headers/pvp/tools-waves
     headers/pvp/defense
     headers/pvp/troops
-    headers/pvp/all-together
+    headers/pvp/composition
     headers/pvp/final-thoughts

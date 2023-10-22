@@ -1,7 +1,7 @@
 Introduction
 ============
 
-This will be about a 15 minute read for those curious, but trust me, it'll be worth every minute of your time. You can skips sections if you wish, but if you're new, I highly encourage reading through the entire thing. If you already know the basics, try starting `here <tools-waves.html>`_.
+This will be about a 25 minute read for those curious, but trust me, it'll be worth every minute of your time. You can skips sections if you wish, but if you're new, I highly encourage reading through the entire thing. If you already know the basics, try starting `here <tools-waves.html>`_.
 
 :blue:`Type Matchups`
 ~~~~~~~~~~~~~~~~~~~~~

@@ -34,7 +34,7 @@ Bear with me. The item effectiveness of the shield wall is :number:`-15%` ranged
 
 The popular shield wall amount if you're familiar with copy-paste formations is :number:`37`. That's :number:`-555%`. :number:`100%` (base) + :number:`210%` (:number:`3` slits) + :number:`230%` (castellan) = :number:`540%`. It's a little higher if you account for dHOL bonuses (you don't need to know what that is, just know it exists), but the math checks. The problem with the :number:`37` shield argument, is that it either assumes :number:`(1)` a :number:`300%` castellan or :number:`(2)` a :number:`3` slit setup. Both arguments are absurd.
 
-An even more extreme argument purports :number:`42` shields, which accounts for both option :number:`(1)` and :number:`(2)`. This is more than absurd. We'll pick this idea up later, but for now, disregard it.
+An even more extreme argument purports :number:`42` shields, which accounts for both option :number:`(1)` and :number:`(2)`. This is more than absurd. We'll pick this idea up `later <final-thoughts.html#shield-attack-strategy>`_, but for now, disregard it.
 
 :blue:`The Alt Wave`
 ~~~~~~~~~~~~~~~~~~~~
@@ -68,7 +68,7 @@ I fibbed. Here's a little for those who are curious: :number:`200%` (level :numb
 
 And yes I'll finally explain why I'm not including the hero bonus in all of these. The castellan hero has 4 traits. Two of them will always be ranged and melee bonus (not guaranteed on the equipment, but players will always chose them). Ranged and melee bonuses persist from the wall attack to the courtyard battle. However, the wall, gate, and moat bonuses only apply to the wall attack, meaning their stats are half as valuable in full context. The other two bonuses are usually fought over by the early detection, the courtyard, and the overall strength substats. You don't need to understand what any of that means. But for those who are asking, you have your answer. And those who asked and still don't have an answer, tough (j/k, you'll learn as you progress in the game). :P
 
-All stats thus far are assuming max stats, but rarely will any of them actually be just by nature of the substat priority on equipment. You will almost never need every single wall and gate tool especially in the front wave. The moat tools are being choked out, due to the 50-tool limit on the front. You already know how to read defenses, so you can match your towers and gate to the enemy's defense. Then you'll free up space to squeeze more moat tools in.
+All stats thus far are assuming max stats, but rarely will any of them actually be just by nature of the substat priority on equipment. You will almost never need every single wall and gate tool especially in the front wave. The moat tools are being choked out, due to the :number:`50`-tool limit on the front. You already know how to read defenses, so you can match your towers and gate to the enemy's defense. Then you'll free up space to squeeze more moat tools in.
 
 Yeah, I'm not getting past you am I. Why :number:`30` shields + :number:`12` wall + :number:`8` gate? If wall power = gate power, and both tools provide :number:`-20%`, why is there more wall than gate? And why only :number:`30` shields? I plead the 5th. I'm serious though. Try it, send varying amounts of shields, wall, and gate. I'd love to hear what is working for you. :D
 
@@ -77,4 +77,4 @@ Or you can keep it yourself. ;)
 :blue:`Putting it Altogether?`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Where are the troops? Not yet. We need to take a look at defense again before we can insert the troops in the waves. Then we can put everything together. Cya there. (⁀ᗢ⁀)
+Where are the troops? Not yet. We need to take a look at defense again before we can properly address troops. Then we will put everything together. Cya there. (⁀ᗢ⁀)

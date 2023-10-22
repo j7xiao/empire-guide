@@ -43,6 +43,6 @@ The red bow means a ranged type soldier. High attack stat (:number:`310`), low d
 
 It should go without saying that you attack with offensive troops and defend with defensive troops.
 
-So let's say you pit them against each other. The defending strength of the protector is :number:`108` as it is being attacked by a ranged unit. The attack stat of the valkyrie ranger is :number:`310`. Therefore, it would take around 3 protectors to successfully fend off 1 valkyrie. This makes sense as again, ranged attackers are innately effective against melee defenders.
+So let's say you pit them against each other. The defending strength of the protector is :number:`108` as it is being attacked by a ranged unit. The attack stat of the valkyrie ranger is :number:`310`. Therefore, it would take around :number:`3` protectors to successfully fend off :number:`1` valkyrie. This makes sense as again, ranged attackers are innately effective against melee defenders.
 
 Next up: Wall Basics

@@ -25,8 +25,6 @@ Anyways, back to the wall ratio. Why are almost all of the troops grouped on one
 
 There are two parts of the attack: the wall battle and the courtyard assault. Most attack troops are typically in the wall battle, but there will be trailing troops called the "courtyard assault". If the attacker manages to break at least one flank, all surviving troops in addition to the courtyard assult will fight in the ensuing courtyard battle. The courtyard assault will be returned to the attacker if all :number:`3` flanks are successfully defended.
 
-If the defender is significantly stronger then the attacker, he typically wants to kill all the trailing troops by intentionally leaving a flank "open" (assigning 0% of the wall trops to a flank) and destroying all of them in the ensuing courtyard assault. The defender will naturally lose more troops then if he simply defended all three flanks, but sometimes it's about sending a message.
-
 If the defender sucessfully defends :number:`2` flanks, he gains a :number:`30%` courtyard strength bonus. If the defender only defends :number:`1` flank, the courtyard battle "goes even", and neither side receives a bonus. If the defender cannot defend any flank, then the attackers gains a :number:`30%` courtyard strength bonus.
 
 Typically, a player can comfortably defend one flank. There are some situations, where the defender may elect to defend two flanks (:number:`35-65-0` or :number:`50-0-50` typically). There is an inherent risk. If he sucessfully defends two flanks, he gets the :number:`30%` courtyard bonus. But usually if he can't, he loses both flanks and the attackers gains :number:`30%` courtyard bonus. That is a massive swing in power, and can make or break an attack.
@@ -77,6 +75,6 @@ Remember that the defending ranged troop's power can be reduced by attacking too
 :blue:`Melee Majority Ratio`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-So what we have left is melee majority ratio. So Why :number:`80m/20`? The answer is that it provides enough unreduceable melee power while also providing ranged power to interfere with any attacking ranged troops, as again, :number:`100m/0` is a blunder. Some people will argue for :number:`70m/30`. This is valid argument as well, but depends on how many shield waves the attacker sends. We must swap back to the attacking aspect to complete our journey through the Art of the Attack.
+So what we have left is melee majority ratio. So Why :number:`80m/20`? The answer is that it provides enough unreduceable melee power while also providing ranged power to interfere with any attacking ranged troops, as again, :number:`100m/0` is a blunder. Some people will argue for :number:`70m/30`. This is a valid argument as well, but depends on how many shield waves the attacker sends. We must swap back to the attacking aspect before completing our journey through the Art of the Attack.
 
 You're almost done! ヾ（〃＾∇＾）ﾉ♪

@@ -47,13 +47,13 @@ Let's borrow the second half of the image from earlier.
 
 :number:`21` towers + :number:`19` boulders. This is the standard setup for :number:`40`-tool large flanks. Higher level players with the :number:`+10` tool wave limit will usually see this as :number:`21` towers and :number:`21` boulders.
 
-Back to magic numbers. What is the significance of :number:`21`? A level :number:`8` castle wall gives :number:`+200%` defense. The max castellan wall bonus (excluding hero) is :number:`+220%`. What about tools? No one uses wall tools on defense. No one. This will be explained later. :number:`200% + 220%  = 420%` bonus. Each breaching tower grants :number:`-20%` wall bonus. And wouldn't you know it, :number:`21 * -20% = -420%`.
+Back to magic numbers. What is the significance of :number:`21`? A level :number:`8` castle wall gives :number:`+200%` defense. The max castellan wall bonus (excluding hero) is :number:`+220%`. What about tools? No one uses wall tools on defense. No one. (Yes, I'm still ignoring sovereign tools.) :number:`200% + 220%  = 420%` bonus. Each breaching tower grants :number:`-20%` wall bonus. And wouldn't you know it, :number:`21 * -20% = -420%`.
 
 Why :number:`19` boulders? It's supposed to be :number:`21`, but if you're stuck with only :number:`40`-tool large flanks, sacrifices must be made. Okay, so why :number:`21` boulders then? Glad you asked. A level :number:`4` ruby moat gives :number:`+85%` moat. The max castellan moat bonus (excluding hero) is :number:`+120%`. The moat tool has it's own slot in the defense, so it will always be present. The strongest moat tool is the inferno moat which gives :number:`+110%`. :number:`85% + 120% + 110% = 315%`. Each boulder grants :number:`-15%` moat bonus. And look at that, :number:`21 * -15% = -315%`. Math is magical.
 
 You can probably understand that a :number:`40`-tool wave can't hold both :number:`21` towers and :number:`21` boulders. So why do we favor :number:`21` towers over :number:`21` boulders? Remember that the tower tool grants :number:`-20%` wall bonus, but the moat tool only gives :number:`-15%` moat bonus. This means that the wall has more value then the moat per tool. :number:`21` towers and :number:`19` boulders sacrifices :number:`30%` moat, but :number:`19` towers and :number:`21` boulders sacrifices :number:`40%` wall. Remember axiom 1? :number:`40%` wall > :number:`30%` moat. (:
 
-And for those of you wondering why I didn't use all :number:`50`-tool space, and elected to leave :number:`8` slots empty, it is to save on tools. If you add more towers or moat`s, you won't actually be reducing any potential defense. You can still fill it to :number:`50` if you want though. 
+And for those of you wondering why I didn't use all :number:`50`-tool space, and elected to leave :number:`8` slots empty, it is to save on tools. If you add more towers or moat`s, you won't actually be reducing any potential defense, unless they're using sovereign tools, but they have their own set of rules.
 
 :blue:`Front Formations`
 ~~~~~~~~~~~~~~~~~~~~~~~~

@@ -7,3 +7,17 @@
     font-style: italic;
 }
 
+.small {
+    font-size: small;
+    font-style: italic;
+}
+
+.small-num {
+    color: olive;
+    font-style: italic;
+    font-size: small;
+} 
+
+.it {
+    font-style: italic;
+}

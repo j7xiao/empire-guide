@@ -32,6 +32,15 @@ rst_prolog = """
 
 .. role:: number
     :class: number
+
+.. role:: small
+    :class: small
+
+.. role:: small-num
+    :class: small-num
+
+.. role:: it
+    :class: it
 """
 
 def setup(app):

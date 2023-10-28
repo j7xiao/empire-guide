@@ -38,7 +38,7 @@ But sending melee troops down the centre makes it weaker, right? I mean I litera
 
 Let's imagine you're f2p and you're attacking another f2p. Assuming you're level :number:`70`, you'll typically have :number:`4` base waves to attack with and up to :number:`2` waves from your hall of legends. The defender doesn't have access to any op wall widgets, as they are well, f2p. They will most likely have around :number:`~1000` on the wall. As an attacker, you can send :number:`240` down the front. That's :number:`240 * 6 = 1440`.
 
-Let's take it a step further. If you're in a good alliance, you'll have access to the :number:`+70%` front unit limit widget. (You don't need to understand what a widget is at this point; just know that it exists.) That's :number:`517` down the front for :number:`408 * 6 = 2448`.
+Let's take it a step further. If you're in a good alliance, you'll have access to the :number:`+70%/+80%` front unit limit widget. (You don't need to understand what a widget is at this point; just know that it exists.) That's :number:`432` down the front for :number:`432 * 6 = 2592`.
 
 I'm sure this is how the :number:`1000` troops defending feel when their castle owner sets them to all front:
 |br| |ah-hell-nah|
@@ -49,9 +49,9 @@ I'm sure this is how the :number:`1000` troops defending feel when their castle 
 .. |board-meeting-meme| image:: ./images/board-meeting-meme.png
     :scale: 80 %
 
-And for the other end of the spectrum. You've spent a little of your dad's retirement saving, or maybe all of it. You have :number:`4` base waves + :number:`7` wave look item + :number:`1` wave from the commander + :number:`2` from your Hall of Legends and maybe even :number:`1` wave from your general . That's :number:`15` waves. You'll have access to the :number:`+80%` front unit limit widget, as well as :number:`+60%` from the BTH widget (again, disregard its meaning for the sake of the argument), :number:`+78%` from your general Toril or Sasaki and :number:`+120%` from the commander. :number:`304 * [100% (base) + 80% + 60% + 78% + 120%] = 1332` extra troops on a wave for a total of :number:`1332 * 15 (waves) = 19980`.
+And for the other end of the spectrum. You've spent a little of your dad's retirement saving, or maybe all of it. You have :number:`4` base waves + :number:`7` wave look item + :number:`1` wave from the commander + :number:`2` from your Hall of Legends + :number:`1` wave from your general and maybe even :number:`3` from you war wagon tool. That's :number:`18` waves. You'll have access to the :number:`+80%` front unit limit widget, as well as :number:`+60%` from the BTH widget (again, disregard its meaning for the sake of the argument), :number:`+78%` from your general Toril or Sasaki, :number:`+60%` from the hospital widget, and :number:`+120%` (:number:`+130%` is theoretical max, but is basically impossible) from the commander. :number:`240 * [100% (base) + 80% + 60% + 78% + 60% + 120%] = 1195` troops on a wave for a total of :number:`1195 * 18 (waves) = 21510`.
 
-I'll keep the defense calculation short and sweet: :number:`2300` (:number:`23` lv :number:`8` towers) + :number:`325` (orange flour mill wall widget) + :number:`200` (purple barracks wall widget**) = :number:`2825` * [:number:`100%`` (base) + :number:`57%`` (horatio) + :number:`40%`` (sovereign tool) + :number:`120%`` (castellan bonus) + :number:`30%`` (egg widget)] = :number:`9802`.
+I'll keep the defense calculation short and sweet: :number:`2300` (:number:`23` lv :number:`8` towers) + :number:`325` (orange flour mill wall widget) + :number:`200` (purple barracks wall widget**) = :number:`2825` * [:number:`100%` (base) + :number:`57%` (horatio) + :number:`40%` (sovereign tool) + :number:`120%` (castellan bonus) + :number:`30%` (egg widget)] = :number:`9802`.
 
 :small:`** The baracks wall widget is only purple, because currently the orange one is bugged. It's supposed to give` :small-num:`350` :small:`wall unit capacity, but mysteriously, it gets converted to` :small-num:`+800` :small:`courtyard defense, which is a complete joke when your courtyard can hold hundreds of thousands of troops.`
 

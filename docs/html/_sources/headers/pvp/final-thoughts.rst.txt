@@ -19,4 +19,16 @@ Obviously :number:`126` is not divisible by :number:`4`, so that's typically a g
 
 Also there are some people that strictly send out :number:`42` shields. Either way it's suboptimal, but worth addressing. 
 
+:underline:`Special thanks`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. |fishychibba| image:: ../pfp-fishychibba.png
+    :scale: 40 %
+.. |lunarian| image:: ../pfp-lunarian.png
+    :scale: 40 %
+
+|fishychibba| :green:`fishychibba`
+
+|lunarian| :green:`Lunarian`
+
 

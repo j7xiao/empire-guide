@@ -41,6 +41,9 @@ rst_prolog = """
 
 .. role:: it
     :class: it
+
+.. role:: in
+    :class: in
 """
 
 def setup(app):

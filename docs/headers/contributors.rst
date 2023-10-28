@@ -7,9 +7,13 @@ Contributors
     :scale: 40 %
 .. |lunarian| image:: ./pfp-lunarian.png
     :scale: 40 %
+.. |Agronyth| image:: ./pfp-agronyth.png
+    :scale: 40 %
 
 |commcl| *"j7xiao"* :green:`commcl`
 
 |fishychibba| *"fishy"* :green:`fishychibba`
 
 |lunarian| *"Lake"* :green:`Lunarian`
+
+|Agronyth| *"Agro"* :green:`Agronyth`

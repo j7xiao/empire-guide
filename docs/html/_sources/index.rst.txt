@@ -29,3 +29,11 @@ This website is under construction! Your feedback is important!
     headers/pvp/troops
     headers/pvp/composition
     headers/pvp/final-thoughts
+
+.. toctree::
+    :caption: Events
+    :maxdepth: 1
+    :glob:
+    :hidden:
+
+    headers/events/storms/storms.rst

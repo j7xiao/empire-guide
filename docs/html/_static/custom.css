@@ -21,3 +21,7 @@
 .it {
     font-style: italic;
 }
+
+.in {
+    text-indent: -4em;
+}

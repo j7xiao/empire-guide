@@ -76,7 +76,7 @@ If you are hitting someone who you anticipate is offline, and they have a lopsid
 :blue:`Conclusion`
 ~~~~~~~~~~~~~~~~~~
 
-You are now well equipped with the fundamentals of PvP. There are still many things I have not addressed, namely sovereign tools. They will have their own dedicated guide, as they operate almost on their own plane. But for now, I hope my guide helped. Feel free to reach out to me on discord @ :green:`commcl` with any questions or feedback.
+You are now well equipped with the fundamentals of PvP. There are still many things I have not addressed, namely sovereign tools. They will have their own dedicated guide, as they operate almost on their own plane. But for now, I hope my guide helped.
 
 Happy Hunting~ |br|
 comm
